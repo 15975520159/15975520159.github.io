@@ -11,21 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in South China Agriculture University, 2024
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023: Assistant
+  * LaiXun Technology Co.
+  * Duties included: Data reception and interpretation
+  * Supervisor: Supervisor Liu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2023: Assistant
+  * NeuSoft Co.
+  * Duties included: E-commerce platform data collection and analysis
+  * Supervisor: Supervisor Yang
   
 Skills
 ======
