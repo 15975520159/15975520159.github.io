@@ -11,5 +11,3 @@ citation: 'Wu, Y., Cai, C., Bi, X. et al. Intelligent resource allocation scheme
 This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://15975520159.github.io/files/IntelligentResourceAllocationScheme.pdf)
-
-Recommended citation: 'Wu, Y., Cai, C., Bi, X. et al. Intelligent resource allocation scheme for cloud-edge-end framework aided multi-source data stream. EURASIP J. Adv. Signal Process. 2023, 56 (2023).'
