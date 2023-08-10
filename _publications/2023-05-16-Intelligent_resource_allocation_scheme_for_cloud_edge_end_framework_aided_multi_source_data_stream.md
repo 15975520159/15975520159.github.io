@@ -9,4 +9,4 @@ paperurl: 'https://asp-eurasipjournals.springeropen.com/articles/10.1186/s13634-
 citation: 'Wu, Y., Cai, C., Bi, X. et al. Intelligent resource allocation scheme for cloud-edge-end framework aided multi-source data stream. EURASIP J. Adv. Signal Process. 2023, 56 (2023). https://doi.org/10.1186/s13634-023-01018-x'
 ---
 
-[Download paper here](http://academicpages.github.io/files/IntelligentResourceAllocationScheme.pdf)
+[Download paper here](https://github.com/15975520159/15975520159.github.io/tree/master/files/IntelligentResourceAllocationScheme.pdf)
