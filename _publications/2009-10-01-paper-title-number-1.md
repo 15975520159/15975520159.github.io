@@ -8,8 +8,5 @@ venue: 'EURASIP Journal on Advances in Signal Processing'
 paperurl: 'https://asp-eurasipjournals.springeropen.com/articles/10.1186/s13634-023-01018-x'
 citation: 'Wu, Y., Cai, C., Bi, X. et al. Intelligent resource allocation scheme for cloud-edge-end framework aided multi-source data stream. EURASIP J. Adv. Signal Process. 2023, 56 (2023). https://doi.org/10.1186/s13634-023-01018-x'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/IntelligentResourceAllocationScheme.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
