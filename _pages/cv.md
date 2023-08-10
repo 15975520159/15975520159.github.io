@@ -27,9 +27,11 @@ Work experience
   
 Skills
 ======
-* Professional Skills: C, C++, Java, Python
-* Other skills: Cello (Grade 8)
+  * Professional Skills: C, C++, Java, Python
+  * Other skills: Cello (Grade 8)
 
 Publications
 ======
-* Intelligent resource allocation scheme for cloud edge end framework aided multi source data stream
+ <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
