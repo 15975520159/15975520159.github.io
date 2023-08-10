@@ -4,6 +4,7 @@ excerpt: "The project involves the cropping of scanned soybean leaf data to obta
 <br/><img src='/images/soybean_01.png'>
 <br/><img src='/images/soybean_02.png'>
 <br/><img src='/images/soybean_03.png'>
+I served as the project leader in this project, responsible for developing the core framework and training the models. Other team members were responsible for collecting the raw images and annotating the data. With our collaboration, the project was successfully completed, and we applied for a software copyright based on it:
 <br/><img src='/images/soybean_certificate.png'>"
 collection: portfolio
 ---
