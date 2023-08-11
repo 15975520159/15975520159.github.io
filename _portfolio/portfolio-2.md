@@ -1,5 +1,5 @@
 ---
-title: "Localization and Automated Quantitative Analysis of Key Vein Points in Soybean Leaves for Fine Phenotype Analysis"
+title: "Improving medication adherence through an integrated medication"
 excerpt: "The project involves the use of 3D printing technology to create a pillbox that can serve as a phone case and has an integrated polarizing system. This allows the smartphone camera to capture the interior of the pillbox. Additionally, a companion app is developed, utilizing image detection technology to determine the quantity and types of pills inside the pillbox. The app sends email reminders to users to take medication on time. The schematic diagram is as follows:
 <br/><img src='/images/medical_01.png'>
 <br/>
