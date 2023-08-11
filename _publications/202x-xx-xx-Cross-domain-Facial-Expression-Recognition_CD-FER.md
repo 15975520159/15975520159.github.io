@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Cross-domain Facial Expression Recognition"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/202x-xx-xx-Cross-domain-Facial-Expression-Recognition_CD-FER
+excerpt: 'Domain shift poses significant challenges in Cross-Domain Facial Expression Recognition (CD-FER) due to the changes in distributions between the source and target domains, including marginal and category distributions. Most existing methods focus on learning domain-invariant features through global feature adaptation, neglecting the potential benefits of transferable local features across different domains. In this study, we propose a Pseudo-Complementary Label Learning (PCLL) module and a Label Reweighting (LR) module to address this issue. Specifically, our approach leverages pseudo-labels and complementary labels to learn domain-invariant global and local features using credibility thresholds, selecting the best classification results to enhance cross-domain facial expression recognition.
+However, even with these high-confidence samples, the problem of category distribution differences between the source and target domains persists. To overcome this, we introduce a metric to quantify the learning difficulty of each category and accordingly match label weights to improve the model's classification performance on the target domain dataset. We conduct extensive experiments and analysis on multiple public datasets, including RAF-DB, FER2013, CK+, JAFFE, SFW2.0, and ExpW, to evaluate the performance of the proposed model in CD-FER. Experimental results demonstrate that our approach significantly enhances facial expression recognition accuracy and outperforms existing state-of-the-art methods in terms of performance.'
+date: 202x-xx-xx
+venue: 'xxx'
+paperurl: 'https://doi.org/10.1186/s13634-023-01018-x'
+citation: 'to be perfected...'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](http://15975520159.github.io/files/IntelligentResourceAllocationScheme.pdf)
