@@ -15,12 +15,12 @@ Education
 
 Work experience
 ======
-* Summer 2023: Assistant
-  * LaiXun Technology Co.
+* Summer 2023: Back-end development intern
+  * LaiXun Computer Technology Co.
   * Duties included: Data reception and interpretation
   * Supervisor: Supervisor Liu
 
-* Fall 2023: Assistant
+* Fall 2023: Back-end development intern (Project Team Leader)
   * NeuSoft Co.
   * Duties included: E-commerce platform data collection and analysis
   * Supervisor: Supervisor Yang
