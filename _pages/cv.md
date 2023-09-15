@@ -16,7 +16,7 @@ Education
 Work experience
 ======
 * Summer 2023: Back-end development intern
-  * LaiXun Computer Technology Co.
+  * Reliablesense Computer Technology Co.
   * Duties included: Data reception and interpretation
   * Supervisor: Supervisor Liu
 
